@@ -25,7 +25,7 @@ const data: Resource[] = [
     description: "Frequently Asked Questions",
   },
   {
-    href: "Demos",
+    href: "Blog",
     icon: <ImLab size={size} />,
     description: "Learn more about each demo offered on this site",
   },
