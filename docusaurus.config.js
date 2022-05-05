@@ -2,13 +2,13 @@
 const config = {
   title: "AISite",
   tagline: "A learning resource which contains information on AI history, algorithms and demos.",
-  url: "https://AISite.github.io",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
+  url: "https://AI-Site.github.io",
+  baseUrl: "/AISite/",
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/logo.png",
-  organizationName: "AISite",
-  projectName: "AISite.github.io",
+  organizationName: "AI-Site",
+  projectName: "AISite",
   themeConfig: {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     colorMode: {
@@ -64,7 +64,7 @@ const config = {
               to: "docs",
             },
             {
-              label: "Demos",
+              label: "Blog",
               href: "https://github.com/A-Waked/AIDemos/releases",
             },
             {
