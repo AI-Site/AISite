@@ -4,22 +4,18 @@ title: FAQ
 sidebar_label: FAQ
 ---
 
-### 1. What is Runlet?
+### 1. What is AISite?
 
-Runlet is a cloud-based job manager that offers device synchronization and reliable message delivery in a network of connected devices even after connectivity issues.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-### 2. Why use Runlet?
+### 2. What is included?
 
-Runlet provides an easy to use interface to manage jobs across a fleet of connected devices, trigger remote executions, and view logs from remotely executed jobs. You can also quickly get a new device started since all configuration files and records are in the cloud.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-### 3. What are the supported platforms?
+### 3. Where can I learn more?
 
-The desktop distribution is recommended for Linux, Mac, and Windows users. The ARM distribution includes only the daemon and is recommended for resource-constrained devices like the Raspberry Pi.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-### 4. How is personal data handled?
+### 4. Can I contribute?
 
-We only collect necessary user information during registration (such as your name, email address, and social media avatar). We do not share your data with any affiliates or service providers. For more details, have a look at our terms of service and privacy policy.
-
-### 5. Is Runlet secure?
-
-Yes, all logs are encrypted by the host machine before submitted to our servers and decrypted once received by connected devices.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit
